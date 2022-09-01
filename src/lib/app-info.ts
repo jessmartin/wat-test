@@ -1,3 +1,3 @@
-export const appName = 'Awesome Webnative App'
-export const appDescription = 'This is another awesome Webnative app.'
-export const appURL = 'https://webnative.netlify.app'
+export const appName = 'pickr'
+export const appDescription = 'Your photos, in the interplanetary file system.'
+export const appURL = 'https://pickr-wnfs.netlify.app'
