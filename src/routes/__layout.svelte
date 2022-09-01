@@ -51,14 +51,14 @@
   <meta property="og:description" content={appDescription} />
   <meta property="og:url" content={appURL} />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="TODO" />
+  <meta property="og:image" content="/pickr-logo-large.png" />
   <meta property="og:image:alt" content="WebNative Template" />
   <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
+  <meta property="og:image:height" content="480" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={appName} />
   <meta name="twitter:description" content={appDescription} />
-  <meta name="twitter:image" content="TODO" />
+  <meta name="twitter:image" content="/pickr-logo-large.png" />
   <meta name="twitter:image:alt" content={appName} />
 
   <!-- See https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs for description. -->
